@@ -1728,7 +1728,7 @@ span {
   width: 100%;
   height: 100%;
   content: "";
-  background: #D8A67D;
+  /* background: #d8a67d2b; */
   opacity: 0;
   visibility: hidden;
   transition: all 0.4s ease-in-out;
@@ -1753,7 +1753,7 @@ span {
   transform: scaleX(-1) !important;
 }
 .pp-why-benefit-item:hover .pp-icon i {
- color: #fff !important;
+ color: #050653 !important;
 }
 .pp-why-benefit-item:hover .pp-icon::before {
   opacity: 1;
