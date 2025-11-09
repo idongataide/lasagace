@@ -7,7 +7,7 @@
     <meta name="author" content="Gramentheme">
     <meta name="description" content="Le Sagace Ltd – Build to last. Build for good. Durable performance for organisations that serve society.">
     <title>Le Sagace Ltd</title>
-    <link rel="shortcut icon" href="assets/img/favicon.svg">
+    <link rel="shortcut icon" href="assets/img/logo/fav.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/css/animate.css">
