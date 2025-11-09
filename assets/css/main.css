@@ -8,7 +8,7 @@
   --pp-header: #0F1352;
   --pp-text: #6D6B7B;
   --pp-border: #CCCBD13D;
-  --pp-bg: #FAFAFA;
+  --pp-bg: #F4F7FA;
   --pp-box-shadow: 0px 1px 14px 0px rgba(0, 0, 0, 0.13);
 }
 
@@ -112,8 +112,23 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+.line-bg {
+  background-image: url('../img/line1.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
 
+.pp-what-section{
+  background: linear-gradient(#0000001a, #0000008b), url('../img/dark-background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
+.pp-about-text i{
+  margin-right: 10px;
+}
 
 /* --------------------------------------------
     Template Default Fonts & Fonts Styles
@@ -368,6 +383,8 @@ span {
 .pp-about-wrapper-2 .pp-about-image {
   position: relative;
   z-index: 9;
+  border-radius: 20px;
+  overflow: hidden;
 }
 .pp-about-wrapper-2 .pp-about-image img {
   width: 100%;

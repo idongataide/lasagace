@@ -36,14 +36,14 @@
         </div>
     </section>
 
-      <section class="pp-about-section section-padding fix">
+      <section class="pp-about-section section-padding line-bg fix">
             <div class="container">
                 <div class="pp-about-wrapper-2">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-6">
                             <div class="pp-about-content">
                                 <div class="pp-section-title mb-0">
-                                    <span class="pp-sub-title pp-style-border wow fadeInUp">Who We Are</span>
+                                    <span class="pp-sub-title pp-style-border wow fadeInUp">Le Sagace</span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
                                        Why Le Sagace?
                                     </h2>
@@ -166,7 +166,7 @@
                                         <h3>
                                             Chukwu John
                                         </h3>
-                                        <span>CEO, Monylater</span>
+                                        <span class="text-white opacity-80">CEO, Monylater</span>
                                     </div>
                                 </div>
                               
