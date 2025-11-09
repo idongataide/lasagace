@@ -2534,7 +2534,7 @@ span {
   font-size: 14px;
 }
 .header-main .main-menu ul li a:hover {
-  color: var(--pp-theme) !important;
+  color: #D8A67D !important;
 }
 .header-main .main-menu ul li .submenu {
   position: absolute;
