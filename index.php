@@ -57,7 +57,7 @@
                                 <p class="pp-text wow fadeInUp" data-wow-delay=".5s">
                                   Our approach is practical, disciplined, and focused on what works.
                                 </p>                              
-                                <a href="about.html" class="pp-theme-btn mt-4 wow fadeInUp" data-wow-delay=".3s">Discover More <i class="fa-solid fa-arrow-right-long"></i></a>
+                                <a href="about.php" class="pp-theme-btn mt-4 wow fadeInUp" data-wow-delay=".3s">Discover More <i class="fa-solid fa-arrow-right-long"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-6">

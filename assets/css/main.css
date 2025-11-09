@@ -14,9 +14,9 @@
 
 .pp-theme-btn {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 400;
   font-family: "Figtree", sans-serif;
-  background: linear-gradient(270deg, #2160cab0 0%, #1c2184 100%);
+  background: #057ceb;
   line-height: 1;
   padding: 19px 24px;
   display: inline-block;
