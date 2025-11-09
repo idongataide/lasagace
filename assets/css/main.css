@@ -103,7 +103,7 @@
 @media (max-width: 720px) {
  .pp-hero-section {
     background-image: url('../img/line-bg.png') !important;
-    background-size: contain !important;
+    background-size: cover !important;
     background-position: center;
     background-repeat: no-repeat;
   }
