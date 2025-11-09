@@ -3727,12 +3727,12 @@ span {
 }
 @media (max-width: 1199px) {
   .pp-hero-2 {
-    padding: 150px 0 100px;
+    padding: 200px 0 100px;
   }
 }
 @media (max-width: 991px) {
   .pp-hero-2 {
-    padding: 140px 0 80px;
+    padding: 200px 0 80px;
   }
 }
 .pp-hero-2 .pp-hero-image-1 {
