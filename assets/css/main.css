@@ -100,6 +100,15 @@
     position: relative;
 }
 
+@media (max-width: 720px) {
+ .pp-hero-section {
+    background-image: url('../img/line-bg.png') !important;
+    background-size: contain !important;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+
 .pp-hero-section {
   background: linear-gradient(#0f1352, #0f13528b), url('../img/hero/bg.jpg');
   background-size: cover;
@@ -2505,7 +2514,7 @@ span {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 .header-main .header-logo img {
   width: 150px;
