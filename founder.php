@@ -8,7 +8,7 @@
                             <div class="pp-feature-content">
                                 <div class="pp-section-title mb-0">
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">Kelechi Vera Olawoyin, FCIPM</h2>
-                                    <h3 class="wow fadeInUp" data-wow-delay=".3s">Founder & Managing Principal, Le Sagace Ltd</h3>
+                                    <h3 class="wow fadeInUp" data-wow-delay=".3s">Founder & Managing Principal, Le Sagace Consulting</h3>
                                 </div>
                                 <p class="pp-text text-2 wow fadeInUp text-dark" data-wow-delay=".5s">
                                     Kelechi Vera Olawoyin brings over 25 years of professional experience in human resources, strategy, and transformation across multinationals, indigenous firms, and the nonprofit sector.
@@ -39,7 +39,7 @@
                                 <div class="about-content">
                                     <div class="pp-section-title mb-0 mt-4">
                                         <h2 class="wow fadeInUp text-white mb-4" data-wow-delay=".3s">
-                                           Academic and Professional Qualifications
+                                           Academic and <br/>Professional Qualifications
                                         </h2>
                                     </div>
                                     <p class="text-white opacity-80 mb-5">Kelechi holds a B.A. in Mass Communication from the University of Nigeria, Nsukka, and an M.Sc. in Mass Communication from the University of Lagos and an MBA from Imperial College Business School, London, where she was awarded the prestigious Imperial Excellence Scholarship.</p>
@@ -67,7 +67,7 @@
                                 <div class="about-content">
                                     <div class="pp-section-title mb-0 mt-4">
                                         <h2 class="wow fadeInUp text-white mb-4" data-wow-delay=".3s">
-                                           Industry Contributions and Thought Leadership
+                                           Industry Contributions </br>and Thought Leadership
                                         </h2>
                                     </div>
                                     <p class="text-white opacity-80 mb-5">Kelechi has contributed to Talent and organisational development, not-for-profit transformation, strategy and business transformation in Nigeria and Africa. She has served as:</p>
