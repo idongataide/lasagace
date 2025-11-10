@@ -145,7 +145,7 @@
             </div>
         </section>
 
-         <section class="pp-testimonial-section section-padding fix bg-cover">
+         <!-- <section class="pp-testimonial-section section-padding fix bg-cover">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-7">
@@ -175,7 +175,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
          
 
