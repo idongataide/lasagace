@@ -222,77 +222,64 @@
             </div>
         </section>
 
-         <section class="pp-about-section section-bg section-padding-medium fix">
-            <div class="container">
-                <div class="pp-about-wrapper">
-                    <div class="row g-4">
-                        <div class="col-lg-6">
-                            <div class="about-image">
-                                <img src="assets/img/4-images.png" alt="img" class="wow img-custom-anim-left" data-wow-duration="1.3s" data-wow-delay="0.3s">
-                                
-                            </div>
+       <section class="pp-about-section section-bg section-padding-medium fix">
+        <div class="container">
+            <div class="pp-about-wrapper">
+                <div class="row g-4">
+                    <div class="col-lg-6">
+                        <div class="about-image">
+                            <img src="assets/img/4-images.png" alt="img" class="wow img-custom-anim-left" data-wow-duration="1.3s" data-wow-delay="0.3s">
                         </div>
-                        <div class="col-lg-5 all-padding">
-                            <div class="about-content">
-                                <div class="pp-section-title mb-0 mt-4">
-                                    <span class="pp-sub-title wow fadeInUp">ABOUT US</span>
-                                    <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                        The Kintsugi Method <br/> by Le Sagace™
-                                    </h2>
+                    </div>
+                    <div class="col-lg-5 all-padding">
+                        <div class="about-content">
+                            <div class="pp-section-title mb-0 mt-4">
+                                <span class="pp-sub-title wow fadeInUp">Our Approach</span>
+                                <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                                    The Kintsugi Method <br/> by Le Sagace™
+                                </h2>
+                            </div>
+                            <div class="pp-about-item">
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".3s">
+                                    <h6><i class="fa-solid fa-check"></i> Fracture Map</h6>
+                                    <p>Our Diagnostic Approach to identify and understand root causes of organisational challenges.</p>
                                 </div>
-                                <div class="pp-about-item">
-                                   <div class="pp-about-text wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                        <h6>
-                                            <i class="fa-solid fa-check"></i>
-                                            Fracture Map™ (2–3 wks): Diagnostic: 
-                                        </h6>
-                                        <p>
-                                        Quantify failure modes, bottlenecks, and value‑at‑risk.
-                                        </p>
-                                   </div>
-                                   <div class="pp-about-text wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                                        <h6>
-                                            <i class="fa-solid fa-check"></i>
-                                            Seam Design™ (1–2 wks): 
-                                        </h6>
-                                        <p>
-                                            Target outcomes, business case, and gold‑seam interventions with success metrics.
-                                        </p>
-                                   </div>
-                                   <div class="pp-about-text wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                                        <h6>
-                                            <i class="fa-solid fa-check"></i>
-                                            Kiln Sprints™ (4–6 wks):
-                                        </h6>
-                                        <p>
-                                            Short cycles to implement fixes; each sprint creates a net‑new advantage.
-                                        </p>
-                                   </div>
-                                   <div class="pp-about-text wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                                        <h6>
-                                            <i class="fa-solid fa-check"></i>
-                                            Gilding & Governance™ (2 wks):  
-                                        </h6>
-                                        <p>
-                                            Controls, dashboards, and roles so the fix sticks.
-                                        </p>
-                                   </div>
-                                   <div class="pp-about-text wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                                        <h6>
-                                            <i class="fa-solid fa-check"></i>
-                                            Reveal™ (1 wk): Story + evidence pack: 
-                                        </h6>
-                                        <p>
-                                            What broke, what changed, why it’s stronger.
-                                        </p>
-                                   </div>
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".4s">
+                                    <h6><i class="fa-solid fa-check"></i> Develop Target Outcomes</h6>
+                                    <p>Define measurable success metrics and desired business impacts.</p>
+                                </div>
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".5s">
+                                    <h6><i class="fa-solid fa-check"></i> Create Project Implementation Plans</h6>
+                                    <p>Design strategic plans with actionable steps and clear ownership.</p>
+                                </div>
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".6s">
+                                    <h6><i class="fa-solid fa-check"></i> Develop Controls and Dashboards for Monitoring</h6>
+                                    <p>Establish governance structures and data-driven dashboards for oversight.</p>
+                                </div>
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".7s">
+                                    <h6><i class="fa-solid fa-check"></i> Learning and Evaluation</h6>
+                                    <p>Capture lessons, measure progress, and refine systems for sustainable performance.</p>
+                                </div>
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".8s">
+                                    <h6><i class="fa-solid fa-check"></i> Seam Design</h6>
+                                    <p>Develop business cases and identify “gold-seam” interventions for transformation.</p>
+                                </div>
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".9s">
+                                    <h6><i class="fa-solid fa-check"></i> Kiln Sprints</h6>
+                                    <p>Execute short, iterative implementation cycles that drive rapid improvement.</p>
+                                </div>
+                                <div class="pp-about-text wow fadeInUp" data-wow-delay="1.0s">
+                                    <h6><i class="fa-solid fa-check"></i> Gilding & Governance</h6>
+                                    <p>Embed resilience through strong systems, controls, and leadership accountability.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
+
         
       <section class="pp-about-section section-bg- line-bg section-padding fix">
             <div class="container">
