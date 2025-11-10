@@ -2834,7 +2834,7 @@ span {
 }
 .header-1 .header-right .sidebar__toggle .header-bar span {
   position: absolute;
-  width: 100%;
+  width: 30px !important;
   height: 2px;
   display: inline-block;
   transition: all 0.3s;
@@ -6412,4 +6412,8 @@ span {
 }
 .g-4, .gx-4 {
     --bs-gutter-x: 4rem;
+}
+
+.w-150{
+  width: 150px !important;
 }

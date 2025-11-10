@@ -88,8 +88,8 @@
                                     </div>
                                     <div class="pp-content">
                                         <h6>                                          
-                                            <a href="mailto:info@lesagace.com">
-                                                info@lesagace.com
+                                            <a href="mailto:kvolawoyin@outlook.com">
+                                                kvolawoyin@outlook.com
                                             </a>
                                         </h6>
                                     </div>
@@ -100,8 +100,8 @@
                                     </div>
                                     <div class="pp-content">
                                         <h6>
-                                            <a href="tel:+88012365478900">+880 123 654 789 00</a> <br>
-                                            <a href="tel:+001652069800">+001 6520 698 00</a>
+                                            <a href="tel:+234 (0) 803 979 1051">+234 (0) 803 979 1051</a> <br>
+                                            <!-- <a href="tel:+001652069800">+001 6520 698 00</a> -->
                                         </h6>
                                     </div>
                                 </div>
