@@ -25,7 +25,7 @@
                                     </div>
                                     <div class="offcanvas__contact-text">
                                         <a href="mailto:kvolawoyin@outlook.com"><span class="mailto:kvolawoyin@outlook.com">kvolawoyin@outlook.com</span></a>
-                                        <a href="mailto:info@leagace.com"><span class="mailto:info@leagace.com">info@leagace.com</span></a>
+                                        <a href="mailto:info@lesagace.com"><span class="mailto:info@lesagace.com">info@lesagace.com</span></a>
                                     </div>
                                 </li>                              
                                 <li class="d-flex align-items-center">
@@ -33,7 +33,7 @@
                                         <i class="far fa-phone"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a href="tel:+234 (0) 803 979 1051">+234 (0) 803 979 1051</a>
+                                        <a href="tel:+234 811 868 1656">+234 811 868 1656</a>
                                     </div>
                                 </li>
                             </ul>

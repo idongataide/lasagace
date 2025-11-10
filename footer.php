@@ -93,8 +93,8 @@
                                             </a>
                                         </h6>
                                         <h6>                                          
-                                            <a href="mailto:info@leagace.com">
-                                                info@leagace.com
+                                            <a href="mailto:info@lesagace.com">
+                                                info@lesagace.com
                                             </a>
                                         </h6>
                                     </div>
@@ -105,7 +105,7 @@
                                     </div>
                                     <div class="pp-content">
                                         <h6>
-                                            <a href="tel:+234 (0) 803 979 1051">+234 (0) 803 979 1051</a> <br>
+                                            <a href="tel:+234 811 868 1656">+234 811 868 1656</a> <br>
                                             <!-- <a href="tel:+001652069800">+001 6520 698 00</a> -->
                                         </h6>
                                     </div>
