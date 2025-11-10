@@ -10,7 +10,7 @@
                     </div>
                     <ul class="pp-breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
                     <li>
-                        <a href="index-2.html">
+                        <a href="index.php">
                             Home
                         </a>
                     </li>
@@ -35,7 +35,7 @@
                                 <h3>
                                     Ready to Get Started?
                                 </h3>
-                                <form action="https://ex-coders.com/html/cloudly/contact.php" id="contact-form1" method="POST" class="pp-contact-form-items">
+                                <form action="#" id="contact-form1" method="POST" class="pp-contact-form-items">
                                     <div class="row g-4">
                                         <div class="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
                                             <div class="form-clt">

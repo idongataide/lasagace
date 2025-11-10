@@ -2248,6 +2248,7 @@ span {
 .footer-bottom3 p b {
   color: #F3F7FB;
   opacity: 1;
+  font-weight: 100 !important;
 }
 .footer-bottom3 .pp-footer-bottom-wrapper {
   display: flex;
@@ -3162,13 +3163,13 @@ span {
   }
 }
 .pp-breadcrumb-wrapper .pp-page-heading .pp-breadcrumb-items li {
-  color: var(--pp-white);
+  color: var(--pp-header);
   text-transform: capitalize;
   font-weight: 400;
   font-size: 16px;
 }
 .pp-breadcrumb-wrapper .pp-page-heading .pp-breadcrumb-items li a {
-  color: var(--pp-white);
+  color: var(--pp-header);
   transition: all 0.4s ease-in-out;
 }
 .pp-breadcrumb-wrapper .pp-page-heading .pp-breadcrumb-items li a:hover {
@@ -3179,7 +3180,7 @@ span {
   margin-right: 5px;
 }
 .pp-breadcrumb-wrapper .pp-page-heading .pp-breadcrumb-items li i {
-  color: var(--pp-white);
+  color: var(--pp-header);
 }
 
 .pp-error-items {

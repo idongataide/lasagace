@@ -14,7 +14,7 @@
                                 </div>
                                 <div class="pp-footer-content">
                                     <p>
-                                      Durable performance for organisations that serve society
+                                      Durable performance for <br/> organisations that serve society
                                     </p>
                                     <div class="social-icon d-flex align-items-center">
                                         <!-- <a href="#"><i class="fab fa-facebook-f"></i></a> -->
