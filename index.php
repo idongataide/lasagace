@@ -21,7 +21,7 @@
                 <div class="col-xl-5 col-lg-8 col-md-10">
                     <div class="pp-hero-content">                     
                         <h1>
-                            Build to last. <br/> Build for good.
+                            Build for good.  <br/> Build to last.
                         </h1>
                         <p class="wow fadeInUp" data-wow-delay=".5s">
                             Durable performance for organisations that serve society - strategy, operations, people, and communications delivered with measurable impact.
