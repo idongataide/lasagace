@@ -25,6 +25,7 @@
                                     </div>
                                     <div class="offcanvas__contact-text">
                                         <a href="mailto:kvolawoyin@outlook.com"><span class="mailto:kvolawoyin@outlook.com">kvolawoyin@outlook.com</span></a>
+                                        <a href="mailto:info@leagace.com"><span class="mailto:info@leagace.com">info@leagace.com</span></a>
                                     </div>
                                 </li>                              
                                 <li class="d-flex align-items-center">
@@ -40,8 +41,8 @@
                                 
                             </div>                           
                             <div class="social-icon d-flex align-items-center">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
+                                <!-- <a href="#"><i class="fab fa-facebook-f"></i></a> -->
+                                <!-- <a href="#"><i class="fab fa-youtube"></i></a> -->
                                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
