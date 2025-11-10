@@ -70,7 +70,7 @@
             </div>
         </section>
 
-        <section id="services" class="pp-why-benefit-section section-padding fix section-bg">
+        <section  class="pp-why-benefit-section section-padding fix section-bg">
             <div class="container">
                 <div class="col-md-6 mx-auto pp-section-title text-center">
                     <span class="pp-sub-title pp-style-border wow fadeInUp">Our Services</span>
