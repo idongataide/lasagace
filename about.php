@@ -48,7 +48,7 @@
                 </div>
             </div>
         </section>
-        <section class="hosting-section fix section-padding-medium">
+        <section class="hosting-section fix line-bg section-padding-medium">
             <div class="container">
                 <div class="pp-section-title-area">
                     <div class="pp-section-title text-center">
@@ -294,7 +294,7 @@
             </div>
         </section>
         
-      <section class="pp-about-section section-bg section-padding fix">
+      <section class="pp-about-section section-bg- line-bg section-padding fix">
             <div class="container">
                 <div class="pp-about-wrapper-2">
                     <div class="row g-4 align-items-center">
