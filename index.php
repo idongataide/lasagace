@@ -21,7 +21,7 @@
                 <div class="col-xl-5 col-lg-8 col-md-10">
                     <div class="pp-hero-content">                     
                         <h1>
-                            Build for good.  <br/> Build to last.
+                            Build for <span class="text-gold"> good. </span>  <br/> Build to <span class="text-gold">last</span>.
                         </h1>
                         <p class="wow fadeInUp" data-wow-delay=".5s">
                             Durable performance for organisations that serve society - strategy, operations, people, and communications delivered with measurable impact.
@@ -49,7 +49,7 @@
                                     </h2>
                                 </div>
                                 <p class="pp-text wow fadeInUp" data-wow-delay=".5s">
-                                  Le Sagace Ltd is a founder-led advisory. 
+                                  Le Sagace Consulting Services is a founder-led advisory. 
                                 </p>                              
                                 <p class="pp-text wow fadeInUp" data-wow-delay=".5s">
                                   We work with businesses and nonprofits to turn plans into results across growth, operations, people, and communications. 

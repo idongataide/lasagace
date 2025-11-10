@@ -109,6 +109,11 @@
   }
 }
 
+
+.text-gold{
+  color: #D8A67D !important;
+}
+
 .pp-hero-section {
   background: linear-gradient(#0f1352, #0f13528b), url('../img/hero/bg.jpg');
   background-size: cover;

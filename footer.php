@@ -92,6 +92,11 @@
                                                 kvolawoyin@outlook.com
                                             </a>
                                         </h6>
+                                        <h6>                                          
+                                            <a href="mailto:info@leagace.com">
+                                                info@leagace.com
+                                            </a>
+                                        </h6>
                                     </div>
                                 </div>
                                 <div class="pp-contact-info mb-0">
@@ -113,7 +118,7 @@
             <div class="footer-bottom3">
                 <div class="container">
                     <div class="pp-footer-bottom-wrapper">
-                        <p class="wow fadeInUp" data-wow-delay=".3s">Copyright © <b>lesagace ltd</b></p>
+                        <p class="wow fadeInUp" data-wow-delay=".3s">Copyright © <b>lesagace consulting</b></p>
                         <ul class="pp-footer-list wow fadeInUp" data-wow-delay=".5s">
                             <li>
                                 <a href="contact.php">Contact Us</a>

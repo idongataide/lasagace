@@ -8,7 +8,7 @@
                     <div class="pp-breadcrumb-sub-title">
                         <h1 class="wow fadeInUp" data-wow-delay=".3s">About Us</h1>
                     </div>
-                    <p class="mt-4">Le Sagace Ltd is a founder-led boutique advisory. We help businesses, SMEs, nonprofits, and corporates move from intent to measurable outcomes across growth, operations, people, and communications. 
+                    <p class="mt-4">Le Sagace Consulting is a founder-led boutique advisory. We help businesses, SMEs, nonprofits, and corporates move from intent to measurable outcomes across growth, operations, people, and communications. 
                     <br/>  <br/>
                     We bring enterprise-grade discipline to early-stage and scaling contexts, with a pragmatic, operator mindset.</p>
                 </div>
@@ -101,7 +101,7 @@
                         <div class="col-lg-8 all-padding2">
                             <div class="pp-about-content">
                                 <div class="pp-section-title mb-0">
-                                    <span class="pp-sub-title pp-style-border wow fadeInUp">Lesagace Ltd</span>
+                                    <span class="pp-sub-title pp-style-border wow fadeInUp">Lesagace Consulting</span>
                                     <h2 class="wow fadeInUp text-white" data-wow-delay=".3s">
                                       Our Philosophy — The Kintsugi Principle
                                     </h2>
