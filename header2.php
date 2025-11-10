@@ -58,7 +58,7 @@
                     </a>
                     <div class="header__hamburger d-xl-none my-auto">
                         <div class="sidebar__toggle">
-                            <div class="header-bar">
+                            <div class="header-bar dark2">
                                 <span></span>
                                 <span></span>
                             </div>
@@ -70,3 +70,4 @@
     </div>
 </header>
 
+   <?php include 'offset.php'; ?>

@@ -139,6 +139,9 @@
   margin-right: 10px;
 }
 
+.header-bar.dark2 span{
+  background: var(--pp-header) !important;
+}
 /* --------------------------------------------
     Template Default Fonts & Fonts Styles
  ---------------------------------------------- */
