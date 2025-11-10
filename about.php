@@ -240,38 +240,22 @@
                                 </h2>
                             </div>
                             <div class="pp-about-item">
-                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".3s">
-                                    <h6><i class="fa-solid fa-check"></i> Fracture Map</h6>
-                                    <p>Our Diagnostic Approach to identify and understand root causes of organisational challenges.</p>
-                                </div>
                                 <div class="pp-about-text wow fadeInUp" data-wow-delay=".4s">
-                                    <h6><i class="fa-solid fa-check"></i> Develop Target Outcomes</h6>
-                                    <p>Define measurable success metrics and desired business impacts.</p>
+                                    <h6><i class="fa-solid fa-check"></i> Seam Design</h6>
+                                    <p>Develop Target Outcomes</p>
                                 </div>
                                 <div class="pp-about-text wow fadeInUp" data-wow-delay=".5s">
-                                    <h6><i class="fa-solid fa-check"></i> Create Project Implementation Plans</h6>
-                                    <p>Design strategic plans with actionable steps and clear ownership.</p>
+                                    <h6><i class="fa-solid fa-check"></i>Kiln Sprints</h6>
+                                    <p>Create Project Implementation Plans</p>
                                 </div>
                                 <div class="pp-about-text wow fadeInUp" data-wow-delay=".6s">
-                                    <h6><i class="fa-solid fa-check"></i> Develop Controls and Dashboards for Monitoring</h6>
-                                    <p>Establish governance structures and data-driven dashboards for oversight.</p>
+                                    <h6><i class="fa-solid fa-check"></i> Gilding & Governance</h6>
+                                    <p>Develop Controls and Dashboards for Monitoring</p>
                                 </div>
                                 <div class="pp-about-text wow fadeInUp" data-wow-delay=".7s">
-                                    <h6><i class="fa-solid fa-check"></i> Learning and Evaluation</h6>
-                                    <p>Capture lessons, measure progress, and refine systems for sustainable performance.</p>
-                                </div>
-                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".8s">
-                                    <h6><i class="fa-solid fa-check"></i> Seam Design</h6>
-                                    <p>Develop business cases and identify “gold-seam” interventions for transformation.</p>
-                                </div>
-                                <div class="pp-about-text wow fadeInUp" data-wow-delay=".9s">
-                                    <h6><i class="fa-solid fa-check"></i> Kiln Sprints</h6>
-                                    <p>Execute short, iterative implementation cycles that drive rapid improvement.</p>
-                                </div>
-                                <div class="pp-about-text wow fadeInUp" data-wow-delay="1.0s">
-                                    <h6><i class="fa-solid fa-check"></i> Gilding & Governance</h6>
-                                    <p>Embed resilience through strong systems, controls, and leadership accountability.</p>
-                                </div>
+                                    <h6><i class="fa-solid fa-check"></i> Reveal</h6>
+                                    <p>Learning and Evaluation</p>
+                                </div>                               
                             </div>
                         </div>
                     </div>
