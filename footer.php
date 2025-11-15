@@ -70,8 +70,8 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact.php">
-                                            Support
+                                        <a href="mailto:info@lesagace.com">
+                                            Submit RFP
                                         </a>
                                     </li>
                                 </ul>
@@ -87,11 +87,11 @@
                                         <i class="fa-regular fa-envelope"></i>
                                     </div>
                                     <div class="pp-content">
-                                        <h6>                                          
+                                        <!-- <h6>                                          
                                             <a href="mailto:kvolawoyin@outlook.com">
                                                 kvolawoyin@outlook.com
                                             </a>
-                                        </h6>
+                                        </h6> -->
                                         <h6>                                          
                                             <a href="mailto:info@lesagace.com">
                                                 info@lesagace.com

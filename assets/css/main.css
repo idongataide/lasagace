@@ -2135,6 +2135,10 @@ span {
 .pp-footer-widget-wrapper .pp-footer-widget-items .pp-list-area li a {
   color: rgba(255, 255, 255, 0.7);
 }
+
+.pp-footer-widget-wrapper .pp-footer-widget-items .pp-list-area li a:hover {
+  color: #F3F7FB !important;
+}
 .pp-footer-widget-wrapper .pp-footer-widget-items .pp-list-area li:hover {
   margin-left: 5px;
 }

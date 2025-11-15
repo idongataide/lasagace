@@ -101,7 +101,7 @@
                         <div class="col-lg-8 all-padding2">
                             <div class="pp-about-content">
                                 <div class="pp-section-title mb-0">
-                                    <span class="pp-sub-title pp-style-border wow fadeInUp">Lesagace Consulting</span>
+                                    <!-- <span class="pp-sub-title pp-style-border wow fadeInUp">Lesagace Consulting</span> -->
                                     <h2 class="wow fadeInUp text-white" data-wow-delay=".3s">
                                       Our Philosophy — The Kintsugi Principle
                                     </h2>

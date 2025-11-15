@@ -19,7 +19,7 @@
                         <div class="offcanvas__contact">
                             <h4>Contact Info</h4>
                             <ul>                               
-                                <li class="d-flex align-items-center">
+                                <!-- <li class="d-flex align-items-center">
                                     <div class="offcanvas__contact-icon mr-15">
                                         <i class="fal fa-envelope"></i>
                                     </div>
@@ -27,7 +27,7 @@
                                         <a href="mailto:kvolawoyin@outlook.com"><span class="mailto:kvolawoyin@outlook.com">kvolawoyin@outlook.com</span></a>
                                         <a href="mailto:info@lesagace.com"><span class="mailto:info@lesagace.com">info@lesagace.com</span></a>
                                     </div>
-                                </li>                              
+                                </li>                               -->
                                 <li class="d-flex align-items-center">
                                     <div class="offcanvas__contact-icon mr-15">
                                         <i class="far fa-phone"></i>
