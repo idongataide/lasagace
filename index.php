@@ -72,7 +72,7 @@
 
         <section  class="pp-why-benefit-section section-padding fix section-bg">
             <div class="container">
-                <div class="col-md-6 mx-auto pp-section-title text-center">
+                <div class="col-md-10 col-lg-6 mx-auto pp-section-title text-center">
                     <span class="pp-sub-title pp-style-border wow fadeInUp">Our Services</span>
                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
                         We help organisations turn intent into measurable outcomes through four core practice areas

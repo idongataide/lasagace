@@ -6445,7 +6445,7 @@ span {
   transition: all 0.3s ease-in-out;
 }
 
-.header-logo img {
+.header-logo img, .header-main .header-logo-2 img {
   animation: pulseBlink 1.5s infinite;
 }
 
