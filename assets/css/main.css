@@ -6434,3 +6434,22 @@ span {
 .w-150{
   width: 150px !important;
 }
+
+.smalls img{
+  width: 70px;
+}
+
+
+.smalls img:hover {
+  transform: rotateY(180deg);
+  transition: all 0.3s ease-in-out;
+}
+
+.header-logo img {
+  animation: pulseBlink 1.5s infinite;
+}
+
+@keyframes pulseBlink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}

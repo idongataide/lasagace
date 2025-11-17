@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="assets/css/main.css">
 
     <!-- ======== Open Graph (Facebook, LinkedIn) ======== -->
-    <meta property="og:title" content="Le Sagace Ltd">
+    <meta property="og:title" content="Le Sagace Consulting Services">
     <meta property="og:description" content="Build to last. Build for good. Durable performance for organisations that serve society.">
     <meta property="og:image" content="https://res.cloudinary.com/dbderwwwc/image/upload/v1762729902/h2_kqk49d.png">
     <meta property="og:type" content="website">
@@ -28,10 +28,10 @@
 
     <!-- ======== Twitter Card ======== -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Le Sagace Ltd">
+    <meta name="twitter:title" content="Le Sagace Consulting Services">
     <meta name="twitter:description" content="Build to last. Build for good. Durable performance for organisations that serve society.">
     <meta name="twitter:image" content="https://res.cloudinary.com/dbderwwwc/image/upload/v1762729902/h2_kqk49d.png">
-    <meta name="twitter:image:alt" content="Le Sagace Ltd Branding">
+    <meta name="twitter:image:alt" content="Le Sagace Consulting Services">
 </head>
 
 <body>

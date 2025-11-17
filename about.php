@@ -127,13 +127,13 @@
             </div>
         </section>
         
-        <section id="services" class="pp-what-section section-padding-medium fix bg-cover">
+        <section id="services" class="pp-what-section section-padding-medium smalls fix bg-cover">
             <div class="container">
               <div class="col-md-10 mx-auto">  
                 <div class="row justify-space-between">
                     <div class="col-md-6">
                         <div class="">
-                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s1.svg" alt="img">
+                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s1.png" alt="img">
                             <h3 class="text-white mt-3">Venture-Driven Growth Strategy</h3>
                             <div class="pp-about-item">
                                 <div class="pp-about-text mb-2 text-white wow fadeInUp" data-wow-delay=".3s">
@@ -157,7 +157,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="">
-                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s2.svg" alt="img">
+                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s2.png" alt="img">
                             <h3 class="text-white mt-3">Organisational Development</h3>
                             <div class="pp-about-item">
                                 <div class="pp-about-text text-white mb-2 wow fadeInUp" data-wow-delay=".3s">
@@ -183,7 +183,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="">
-                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s3.svg" alt="img">
+                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s3.png" alt="img">
                             <h3 class="text-white mt-3">Nonprofit & Social-Impact Consulting</h3>
                             <div class="pp-about-item">
                                 <div class="pp-about-text mb-2 text-white wow fadeInUp" data-wow-delay=".3s">
@@ -200,7 +200,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="">
-                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s2.svg" alt="img">
+                            <img class="wow img-fluid" data-wow-duration="1.3s" data-wow-delay="0.3s" src="assets/img/s4.png" alt="img">
                             <h3 class="text-white mt-3">Corporate Communications</h3>
                             <div class="pp-about-item">
                                 <div class="pp-about-text text-white mb-2 wow fadeInUp" data-wow-delay=".3s">
